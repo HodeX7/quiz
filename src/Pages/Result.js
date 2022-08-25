@@ -25,3 +25,5 @@ const Result = ({ name, score }) => {
 };
 
 export default Result;
+
+	
